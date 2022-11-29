@@ -1,0 +1,24 @@
+{
+  "name": "practicum-chat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "parcel index.hbs",
+    "build": "parcel build index.hbs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kDallas1203/practicum-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kDallas1203/practicum-chat/issues"
+  },
+  "homepage": "https://github.com/kDallas1203/practicum-chat#readme",
+  "devDependencies": {
+    "@anikin/parcel-transformer-handlebars": "^1.0.9",
+    "parcel": "^2.8.0"
+  }
+}
